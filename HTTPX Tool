@@ -1,0 +1,10 @@
+// Status Code Checker
+
+sudo apt install golang-go
+sudo apt install gccgo-go
+cd /opt
+sudo git clone https://github.com/projectdiscovery/httpx.git
+sudo apt install httpx-toolkit
+httpx-toolkit -h
+
+httpx -status-code -title -tech-detect -list sub_domain.txt
