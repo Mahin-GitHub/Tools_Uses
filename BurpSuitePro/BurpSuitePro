@@ -1,0 +1,12 @@
+****** Setup Step By Step ******
+
+Step-1 : Download Burp Suite Pro 
+Step-2 : Extract Zip Folder
+Step-3 : $ cd Downloads
+Step-4 : $ cd /home/kali/Downloads/Burp-Suite-Pro/Burp-Suite/
+Step-5 : $ sudo ./Kali_Linux_Setup.sh
+Step-6 : $ burp
+Step-7 : Then copy lisense key
+Step-8 : Manual Activation
+Step-9 : BurpSuite --> Copy Request Then Paste Activation Request --> Then copy Activation Response --> Then Paste Burp Response ((Next))
+Step-10: Lisence is successfully Install and activated 
