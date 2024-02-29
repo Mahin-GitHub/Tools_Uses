@@ -1,5 +1,5 @@
 ***** Install Step By Step *****
-Step-1 : Download ZAP
+Step-1 : Download ZAP ... URL : https://www.zaproxy.org/download/ ---> Linux Installer --> Download
 ***** Open Terminal *****
 Step-2 : $ sudo su
 Step-3 : # cd Downloads
