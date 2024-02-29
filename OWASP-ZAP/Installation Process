@@ -1,0 +1,8 @@
+***** Install Step By Step *****
+Step-1 : Download ZAP
+***** Open Terminal *****
+Step-2 : $ sudo su
+Step-3 : # cd Downloads
+Step-4 : # chmod o+x ZAP_2_14_0_unix.sh
+Step-5 : # ./ZAP_2_14_0_unix.sh
+Step-6 : Install Start --> Next --> I accept the aggrement --> Next --> Standard Installation --> Next --> Install --> Finish
