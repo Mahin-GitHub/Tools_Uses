@@ -1,0 +1,7 @@
+1st step : go install github.com/projectdiscovery/katana/cmd/katana@latest
+2nd step : sudo cp ~/go/bin/katana /bin/
+3rd step : katana -version
+4th step : katana -h
+5th step : katana -u https://tesla.com
+6th step : katana -u https://tesla.com,https://google.com
+7th step : katana -list url_list.txt
